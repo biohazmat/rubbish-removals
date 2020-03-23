@@ -1,19 +1,10 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+## **All-Round Rubbish and Junk Removal Services in Australia**
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Are you thinking or clearing out the clutter that you left in that spare room or backyard? Are you thinkingof making extra space in your house or clearing out more storage space in your backyard? Are you havinga hard time moving heavy furniture in your home?Rubbish Removals Australiais experienced in alltypes of rubbish removals and can do the hard work for you. With a simple call and booking, you can justshow us what you want to move or remove, so you can move on to your own pressing matters.Rubbish Removalis a task that everyone faces at some point, and depending on the amount of rubbish,junk, or waste can be a real pain to get rid of as it is both physically and mentally exhausting. No onewants to spend an entire day to deal with the rubbish in their backyard, house, at work, after movingout, or even after a disaster or traumatic event happens.Rubbish Removals Australiacan take care ofthe burden of the work for you, for any type of rubbish you can think of
