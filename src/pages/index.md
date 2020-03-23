@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Rubbish Removals Australia
-image: /img/pile-of-vehicle-tires-3283430.jpg
+image: /img/rbb.jpg
 heading: Rubbish Removals Australia
 subheading: Get a Same Day Rubbish Pickup at your location or call us at 1300 246 429
 mainpitch:
